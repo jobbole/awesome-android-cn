@@ -275,23 +275,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Gradle Retrolambda Plugin](https://github.com/evant/gradle-retrolambda) - 在Android中使用Java 8的Lambdas表达式。
 *   [Caffeine](https://github.com/percolate/caffeine) - 通用框架类的合集，让Android开发更快捷。
 
-### 资源
-
-*   [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - 非常好的教程，由Lars Vogel编写。
-*   [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) 这个系列教程由Google Android Desgin团队提供。
-*   [Android Design in Action slides](https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- 这个应用通过一系列视频让你实现幻灯片中所述的效果。
-*   [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - Android Design实战系列对应的技术部分。
-*   [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - 这个系列的文章是[Chet Hasae](https://plus.google.com/+ChetHaase/posts/5grfChTEvQ9) 和其他一些在谷歌工作的员工合写的，主要回答一些最常见的问题，诸如“在开发Android应用中有哪些需要牢记在心的准则。”
-*   [Android Hive Tutorials](http://www.androidhive.info/) - 适用于初学者的非常好的教程。
-*   [Android Weekly](http://androidweekly.net/) - Android开发周报。
-*   [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图表和其它资源生成器。
-*   [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
-*   [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - 生成应用在真机截图的原图。
-*   [Android UI design resources](http://androiduiux.com/free-design-resources/) - 给你提供丰富的设计资源，由谷歌UI和UX领域的专家提供。
-*   [Pencil Project](http://pencil.evolus.vn/) - 一款开源的原型设计软件。
-*   [Google Wear App](https://github.com/mbcrump/FirstGoogleWearableApp) - 开源的Google穿戴应用，使用语音识别进行费用计算。
-*   [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Derek Banas提供的视频教程。
-*   [android-blogs](https://github.com/vbauer/android-blogs) - Android博客列表。
 
 ## [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#development-alternatives)非Java开发安卓应用
 
@@ -339,10 +322,30 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [awesome-android-performance](https://github.com/Juude/awesome-android-performance) - 一个性能优化相关的Android教程、视频和工具列表。
 
 
-<h1 id="resources">其他资源</h1>
+<h1 id="resources">资源</h1>
+
+### 资源
+
+*   [Vogella Tutorials](http://www.vogella.com/tutorials/android.html) - 非常好的教程，由Lars Vogel编写。
+*   [Android Design in Action Video series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc8j2B95zGMb8muZvrIy-wcF) 这个系列教程由Google Android Desgin团队提供。
+*   [Android Design in Action slides](https://play.google.com/store/apps/details?id=com.astuetz.android.adia&feature=md)- 这个应用通过一系列视频让你实现幻灯片中所述的效果。
+*   [Android DevBytes Video Series](https://www.youtube.com/playlist?list=PLWz5rJ2EKKc_XOgcRukSoKKjewFJZrKV0) - Android Design实战系列对应的技术部分。
+*   [Developing for Android](https://medium.com/google-developers/developing-for-android-introduction-5345b451567c) - 这个系列的文章是[Chet Hasae](https://plus.google.com/+ChetHaase/posts/5grfChTEvQ9) 和其他一些在谷歌工作的员工合写的，主要回答一些最常见的问题，诸如“在开发Android应用中有哪些需要牢记在心的准则。”
+*   [Android Hive Tutorials](http://www.androidhive.info/) - 适用于初学者的非常好的教程。
+*   [Android Weekly](http://androidweekly.net/) - Android开发周报。
+*   [Android Asset Studio](http://romannurik.github.io/AndroidAssetStudio/) - 图表和其它资源生成器。
+*   [Android Action Bar Style Generator](http://jgilfelt.github.io/android-actionbarstylegenerator/).
+*   [Device Art Generator](http://developer.android.com/distribute/tools/promote/device-art.html) - 生成应用在真机截图的原图。
+*   [Android UI design resources](http://androiduiux.com/free-design-resources/) - 给你提供丰富的设计资源，由谷歌UI和UX领域的专家提供。
+*   [Pencil Project](http://pencil.evolus.vn/) - 一款开源的原型设计软件。
+*   [Google Wear App](https://github.com/mbcrump/FirstGoogleWearableApp) - 开源的Google穿戴应用，使用语音识别进行费用计算。
+*   [How to Make Android Apps](https://www.youtube.com/playlist?list=PLGLfVvz_LVvSPjWpLPFEfOCbezi6vATIh) - Derek Banas提供的视频教程。
+*   [android-blogs](https://github.com/vbauer/android-blogs) - Android博客列表。
 
 <h3 id="influential-books">有影响力的书</h3>
 *具有广泛影响且值得阅读的安卓经典书籍。*
+
+待补充
 
 <h3 id="websites">知名网站</h3>
 *值得关注的前端技术站点。*
