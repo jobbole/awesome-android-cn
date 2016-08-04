@@ -1,6 +1,6 @@
 # Android 资源大全中文版
 
-我想很多程序员应该记得 GitHub 上有一个 Awesome – XXX 系列的资源整理。[awesome-android](https://github.com/sorrycc/awesome-javascript/blob/master/README.md) 是JStumpp 发起维护的 Android 资源列表，内容包括：图表工具、游戏开发、GUI、崩溃检测、调试工具、通知、图片加载、依赖注入等等。
+我想很多程序员应该记得 GitHub 上有一个 Awesome – XXX 系列的资源整理。[awesome-android](https://snowdream.github.io/awesome-android/) 是JStumpp 发起维护的 Android 资源列表，内容包括：图表工具、游戏开发、GUI、崩溃检测、调试工具、通知、图片加载、依赖注入等等。
 
 > 普通的 Java 资源，请查看 [https://github.com/jobbole/awesome-java-cn](https://github.com/jobbole/awesome-java-cn) 。
 
