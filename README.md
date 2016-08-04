@@ -171,6 +171,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [FloatingLabel](https://github.com/hardik-trivedi/FloatingLabel) - FloatingLabel 允许你创建一堆EditText。 无需使用Gradle或者MAVEN构建。
 *   [MaterialEditText](https://github.com/rengwuxian/MaterialEditText) - 支持使用自定义颜色的浮动标签（Floating Labels）、单行超出文本省略（Single Line Ellipsis）、最大最小字数（Max/Min Characters）、帮助文本（Helper Text）和错误提示（Error Text）。
 *   [Emojicon](https://github.com/rockerhieu/emojicon) - 给你的应用添加表情符号。
+*   [GridPasswrodView](https://github.com/Jungerr/GridPasswordView) - 仿支付宝，微信支付密码输入框。
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#loading-images)图片加载
 
