@@ -150,7 +150,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [SlidingTutorial](https://github.com/Cleveroad/slidingtutorial-android) - 简单的库和教程，帮助创建炫酷的滑动效果Android应用。
 *   [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - 一个在 ViewPager 的不同页面之间导航时有交互指示效果的库。
 *   [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - 水平滑动的ViewPager的支持库。
-*   [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - 轻松实现MaterialDesign效果的抽屉导航.
+*   [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - 轻松实现MaterialDesign效果的抽屉导航。
+*   [WechatRadioBar](https://github.com/leibnik/WechatRadioBar) - 仿微信底部导航栏，实现了 Pager 切换之间 Tab 的渐变动画效果。
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#animations)Animations
 
@@ -247,16 +248,17 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [Byte Buddy](http://bytebuddy.net/) - 运行时生成代码的库，支持Android。
 *   [Secure Preference Manager](https://prashantsolanki3.github.io/Secure-Pref-Manager/) - Android的Secure Preference Manager用不同的加密方式保护应用SharedPreference的安全。
 *   [LeakCanary](https://github.com/square/leakcanary) - 捕获内存泄漏的工具。
-*   [Drekkar](https://github.com/coshx/drekkar) - 用于 WebView 和 嵌入式 JS 之间通信的的 EventBus 框架；
+*   [Drekkar](https://github.com/coshx/drekkar) - 用于 WebView 和 嵌入式 JS 之间通信的的 EventBus 框架。
 *   [Androl4b](https://github.com/sh4hin/Androl4b) - 基于 ubuntu-Mate 的安卓安全虚拟机。
 *   [DroidMVP](https://github.com/andrzejchm/DroidMVP) - 一个小型安卓库，用于合并 MVP 、Passive View 和 Presentation Model。
 *   [Gota](https://github.com/alhazmy13/Gota) - 简化安卓权限。
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#debugging-tools)调试工具
 
-*   [Linx](https://github.com/pedrovgs/Lynx) - 应用的调制版本中可以在手机上显示logcat信息
+*   [Linx](https://github.com/pedrovgs/Lynx) - 应用的调制版本中可以在手机上显示logcat信息。
 *   [Scalpel](https://github.com/JakeWharton/scalpel) - 在手机上查看3D效果的视图层次。
 *   [Stetho](https://github.com/facebook/stetho) - 使用Chrome调试视图层次和网络。
+*   [Emmagee](https://github.com/NetEase/Emmagee) - 网易开源的一款 Android 性能测试工具，可以测试 CPU，内存占用率，流量，启动时间，电量等。
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#wireless)无线
 
