@@ -151,7 +151,6 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [PagerSlidingTabStrip](https://github.com/astuetz/PagerSlidingTabStrip) - 一个在 ViewPager 的不同页面之间导航时有交互指示效果的库。
 *   [Page View indicator](https://github.com/JakeWharton/ViewPagerIndicator) - 水平滑动的ViewPager的支持库。
 *   [MaterialDrawer](https://github.com/mikepenz/MaterialDrawer) - 轻松实现MaterialDesign效果的抽屉导航。
-*   [WechatRadioBar](https://github.com/leibnik/WechatRadioBar) - 仿微信底部导航栏，实现了 Pager 切换之间 Tab 的渐变动画效果。
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#animations)Animations
 
