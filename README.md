@@ -46,7 +46,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### 本项目的参与者
 
-- 维护者：
+- 维护者：[tangyouhua](https://github.com/tangyouhua/)
 - 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)
 
 注：名单不分排名，不定期补充更新
@@ -144,7 +144,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ActionBarSherlock：支持Android旧版本的ActionBar。[官网](http://actionbarsherlock.com/)
 *   FadingActionBar：渐变效果的ActionBar，你可以在新版PlayMusic应用中看到这个效果。[官网](https://github.com/ManuelPeinado/FadingActionBar)
 
-### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#navigation)Navigation
+### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#navigation)导航
 
 *   SlidingMenu：为应用创建滑动菜单的库。[官网](https://github.com/jfeinstein10/SlidingMenu)
 *   SlidingTutorial：简单的库和教程，帮助创建炫酷的滑动效果Android应用。[官网](https://github.com/Cleveroad/slidingtutorial-android)
@@ -152,7 +152,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Page View indicator：水平滑动的ViewPager的支持库。[官网](https://github.com/JakeWharton/ViewPagerIndicator)
 *   MaterialDrawer：轻松实现MaterialDesign效果的抽屉导航。[官网](https://github.com/mikepenz/MaterialDrawer)
 
-### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#animations)Animations
+### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#animations)动画
 
 *   NineOldAndroids：可以将HoneyComb（3.0 API 11）版本的动画效果兼容至1.0起所有版本的库。[官网](https://github.com/JakeWharton/NineOldAndroids)
 *   Rebound：Rebound是一个弹簧动态模型的Java库。[官网](https://github.com/facebook/rebound)
@@ -207,7 +207,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   android-remote-notifications：从远程JSON文件拉取通知显示在你的应用中。[官网](https://github.com/kaiwinter/android-remote-notifications)
 
-### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#database)Database
+### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#database)数据库
 
 *   Cupboard：直接使用数据库或者ContentProvider轻松访问SQLite的框架。[官网](https://bitbucket.org/qbusict/cupboard)
 *   DbInspector：调试时在手机上轻松查看应用数据库。[官网](https://github.com/infinum/android_dbinspector)
@@ -227,13 +227,13 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   Retrofit：Restrofit将REST的API转换成Java接口。[官网](http://square.github.io/retrofit/)
 
-### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#testing)Testing
+### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#testing)测试
 
 *   Robotium：黑盒的UI自动化测试框架。[官网](https://github.com/robotiumtech/robotium)
 *   Roboletric：单元测试框架，在你的工作机器上的Java虚拟机中运行测试，而不是在模拟器中。[官网](http://robolectric.org/)
 *   AssertJ Android：适用于Android的AssertJ。[官网](https://github.com/square/assertj-android)
 
-### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#tracking)Tracking
+### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#tracking)跟踪
 
 *   MobileAppTracking：通过多种广告网络追踪你的市场广告情况。[官网](http://www.tune.com/)
 *   Mixpanel：根据平台分析用户。[官网](https://mixpanel.com/)
@@ -286,7 +286,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   Xamarin：使用C#开发原生的IOS、Android、Mac和Windows应用的框架。[官网](http://xamarin.com/)
 
-### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#html-css-and-javascript)HTML, CSS and Javascript
+### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#html-css-and-javascript)HTML、CSS与Javascript
 
 *   PhoneGap：Adobe提供的开源框架，用于使用HTML、CSS和JavaScript开发跨平台的手机应用。[官网](http://phonegap.com/)
 *   Titanium：使用JavaScript开发跨平台的本地应用的开源框架。[官网](http://www.appcelerator.com/product/)
