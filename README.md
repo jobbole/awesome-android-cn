@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua/)
-- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)
+- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)、[sunbiaobiao](http://hao.jobbole.com/activeandroid/)
 
 注：名单不分排名，不定期补充更新
 
@@ -218,7 +218,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   GreeDAO：小巧快速的ORM解决方案。[官网](http://greendao-orm.com/)
 *   ORMLite：为JDBC和Android提供的轻量级的对象关系映射的包。[官网](http://ormlite.com/sqlite_java_android_orm.shtml)
-*   ActiveAndroid：活动记录（Active record）风格的ORM框架。[官网](http://www.activeandroid.com/)
+*   [ActiveAndroid](http://hao.jobbole.com/activeandroid/)：活动记录（Active record）风格的ORM框架。[官网](http://www.activeandroid.com/)
 *   Sugar ORM：超简单地使用Android数据库。[官网](http://satyan.github.io/sugar/)
 *   DBFlow：快速强大的ORM框架，编译时处理注解。[官网](https://github.com/Raizlabs/DBFlow)
 *   NexusData：Android上的对象图（Object graph）和持久化框架。[官网](https://github.com/dkharrat/NexusData)
