@@ -106,7 +106,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   [AChartEngine](http://hao.jobbole.com/achartengine/)：图表引擎。[官网](https://github.com/ddanny/achartengine)
 *   EazeGraph：图表绘画库。[官网](https://github.com/blackfizz/EazeGraph)
 *   WilliamChart：优秀的运动能力效果的图表库。[官网](https://github.com/diogobernardino/WilliamChart)
-*   HelloCharts：支持缩放、滚动和其它动画的图表库。[官网](https://github.com/lecho/hellocharts-android)
+*   [HelloCharts](http://hao.jobbole.com/hellocharts/)：支持缩放、滚动和其它动画的图表库。[官网](https://github.com/lecho/hellocharts-android)
 *   MPAndroidChart：支持缩放和拖拽手势的Android图表库。[官网](https://github.com/PhilJay/MPAndroidChart)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#dependency-injection)依赖注入
