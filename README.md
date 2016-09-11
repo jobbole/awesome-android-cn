@@ -103,7 +103,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#charts)图表
 
-*   AChartEngine：图表引擎。[官网](https://github.com/ddanny/achartengine)
+*   [AChartEngine](http://hao.jobbole.com/achartengine/)：图表引擎。[官网](https://github.com/ddanny/achartengine)
 *   EazeGraph：图表绘画库。[官网](https://github.com/blackfizz/EazeGraph)
 *   WilliamChart：优秀的运动能力效果的图表库。[官网](https://github.com/diogobernardino/WilliamChart)
 *   HelloCharts：支持缩放、滚动和其它动画的图表库。[官网](https://github.com/lecho/hellocharts-android)
@@ -257,7 +257,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Linx：应用的调制版本中可以在手机上显示logcat信息。[官网](https://github.com/pedrovgs/Lynx)
 *   Scalpel：在手机上查看3D效果的视图层次。[官网](https://github.com/JakeWharton/scalpel)
 *   Stetho：使用Chrome调试视图层次和网络。[官网](https://github.com/facebook/stetho)
-*   Emmagee：网易开源的一款 Android 性能测试工具，可以测试 CPU，内存占用率，流量，启动时间，电量等。[官网](https://github.com/NetEase/Emmagee) 
+*   Emmagee：网易开源的一款 Android 性能测试工具，可以测试 CPU，内存占用率，流量，启动时间，电量等。[官网](https://github.com/NetEase/Emmagee)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#wireless)无线
 
