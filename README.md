@@ -105,7 +105,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   [AChartEngine](http://hao.jobbole.com/achartengine/)：图表引擎。[官网](https://github.com/ddanny/achartengine)
 *   EazeGraph：图表绘画库。[官网](https://github.com/blackfizz/EazeGraph)
-*   WilliamChart：优秀的运动能力效果的图表库。[官网](https://github.com/diogobernardino/WilliamChart)
+*   [WilliamChart](http://hao.jobbole.com/williamchart/)：优秀的运动能力效果的图表库。[官网](https://github.com/diogobernardino/WilliamChart)
 *   [HelloCharts](http://hao.jobbole.com/hellocharts/)：支持缩放、滚动和其它动画的图表库。[官网](https://github.com/lecho/hellocharts-android)
 *   MPAndroidChart：支持缩放和拖拽手势的Android图表库。[官网](https://github.com/PhilJay/MPAndroidChart)
 
@@ -162,7 +162,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#images)图片
 
-*   android-crop：图片剪裁的库。[官网](https://github.com/jdamcd/android-crop)
+*   [android-crop](http://hao.jobbole.com/android-crop/)：图片剪裁的库。[官网](https://github.com/jdamcd/android-crop)
 *   CircularImageView：自定义View，高性能地绘制圆形图片。[官网](https://github.com/Pkmmte/CircularImageView)
 *   Android-Image-Filter：轻松实现图像滤镜的库。[官网](https://github.com/ragnraok/android-image-filter)
 
