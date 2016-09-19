@@ -205,7 +205,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#notifications)通知
 
-*   android-remote-notifications：从远程JSON文件拉取通知显示在你的应用中。[官网](https://github.com/kaiwinter/android-remote-notifications)
+*   [android-remote-notifications](http://hao.jobbole.com/android-remote-notifications/)：从远程JSON文件拉取通知显示在你的应用中。[官网](https://github.com/kaiwinter/android-remote-notifications)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#database)数据库
 
