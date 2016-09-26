@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua/)
-- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)、[sunbiaobiao](http://hao.jobbole.com/activeandroid/)
+- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)、[sunbiaobiao](http://hao.jobbole.com/activeandroid/)、[邢敏](https://github.com/dfghj44444)
 
 注：名单不分排名，不定期补充更新
 
@@ -293,7 +293,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   NativeScript：一个书体部分JavaScript开发本地（native）IOS和Android应用的开源框架。[官网](https://www.nativescript.org/)
 *   React Native：Facebook提供的使用React开发本地应用的框架。[官网](https://github.com/facebook/react-native)
 *   Ionic Framework：使用针对移动设备优化的HTML、CSS和JS的AngularJS框架来开发混合模式移动应用（hybird app）。[官网](http://ionicframework.com/)
-*   Apache Cordova：基于Cordova的应用，核心是使用HTML、CSS和JavaScript这些Web技术开发应用。[官网](https://github.com/apache/cordova-android)
+*   [Apache Cordova](http://hao.jobbole.com/cordova/)：基于Cordova的应用，核心是使用HTML、CSS和JavaScript这些Web技术开发应用。[官网](https://github.com/apache/cordova-android)
 *   Reapp.io：基于Cordova，使用针对移动设备优化HTML、CSS、JSS的ReactJS开发混合模式应用（hybrid app）的框架。[官网](http://reapp.io/)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#lua)Lua
