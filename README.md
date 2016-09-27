@@ -133,7 +133,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Flow：Flow – 是一个将app分成一系列独立的 Screen 组合的库[官网](https://github.com/square/flow)
 *   Crouton：一个对上下文非常敏感的 android 通知库。[官网](https://github.com/keyboardsurfer/Crouton) 
 *   DragSortListView：Android的ListView的扩展，允许拖拽和重新排序（不再更新维护）。[官网](https://github.com/bauerca/drag-sort-listview)
-*   MaterialProgressBar：和Material design效果外观一致的进度条。[官网](https://github.com/DreaminginCodeZH/MaterialProgressBar)
+*   [MaterialProgressBar](http://hao.jobbole.com/materialprogressbar/)：和Material design效果外观一致的进度条。[官网](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 *   AndroidFillableLoaders：使用SVG路径实现的填充效果的进度条。对于创建有趣的应用logo也是一个很棒的有趣的选择。[官网](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
 *   NexusDialog：在Android中用少量代码简单快速地创建表格。[官网](https://github.com/dkharrat/NexusDialog)
 *   Snap RecyclerView Utils：无需创建Adapter生成一个或多个RecyclerView的布局。[官网](https://prashantsolanki3.github.io/Snap-RecyclerView-Utils/)
