@@ -319,6 +319,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Android Kotlin Samples：用Kotlin写成的简单Android代码Sample。[官网](https://github.com/irontec/android-kotlin-samples)
 *   KAndroid：轻量级的库，提供有用的扩展功能来删除Android SDK的样板代码（boilerplate code）。[官网](https://github.com/pawegio/KAndroid)
 
+### Python
+
+*   [python-for-android](http://hao.jobbole.com/python-for-android/)：把你的Python 应用变为Android 应用。[官网](https://python-for-android.readthedocs.io/en/latest/)、[GitHub](https://github.com/kivy/python-for-android/)
+
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#performance)性能
 
 *   awesome-android-performance：一个性能优化相关的Android教程、视频和工具列表。[官网](https://github.com/Juude/awesome-android-performance)
