@@ -276,7 +276,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ZXing Android-Integration：整合通过网络使用条形扫描器（BarCode Scanner）。[官网](https://github.com/zxing/zxing)
 *   Gradle Retrolambda Plugin：在Android中使用Java 8的Lambdas表达式。[官网](https://github.com/evant/gradle-retrolambda)
 *   Caffeine：通用框架类的合集，让Android开发更快捷。[官网](https://github.com/percolate/caffeine)
-
+*   [RoboBinding](http://hao.jobbole.com/robobinding/)：一个实现了数据绑定 Presentation Model(MVVM) 模式的Android开源框架。[官网](http://robobinding.github.io/RoboBinding/)、[GitHub](https://github.com/RoboBinding/RoboBinding)
 
 ## [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#development-alternatives)非Java开发安卓应用
 
