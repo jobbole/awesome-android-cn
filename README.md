@@ -59,7 +59,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)
+* [奖励详情](http://hao.jobbole.com/rewards/)sun
 
 * * *
 ### 目录
@@ -277,6 +277,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Gradle Retrolambda Plugin：在Android中使用Java 8的Lambdas表达式。[官网](https://github.com/evant/gradle-retrolambda)
 *   Caffeine：通用框架类的合集，让Android开发更快捷。[官网](https://github.com/percolate/caffeine)
 *   [RoboBinding](http://hao.jobbole.com/robobinding/)：一个实现了数据绑定 Presentation Model(MVVM) 模式的Android开源框架。[官网](http://robobinding.github.io/RoboBinding/)、[GitHub](https://github.com/RoboBinding/RoboBinding)
+*   [xUtils](http://hao.jobbole.com/xutils/)：
 
 ## [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#development-alternatives)非Java开发安卓应用
 
