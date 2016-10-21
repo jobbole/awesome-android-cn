@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua/)
-- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)、[sunbiaobiao](http://hao.jobbole.com/activeandroid/)、[邢敏](https://github.com/dfghj44444)
+- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)、[sunbiaobiao](http://hao.jobbole.com/activeandroid/)、[邢敏](https://github.com/dfghj44444)、[伯小乐](http://www.jobbole.com/members/aoi)
 
 注：名单不分排名，不定期补充更新
 
@@ -138,6 +138,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   NexusDialog：在Android中用少量代码简单快速地创建表格。[官网](https://github.com/dkharrat/NexusDialog)
 *   Snap RecyclerView Utils：无需创建Adapter生成一个或多个RecyclerView的布局。[官网](https://prashantsolanki3.github.io/Snap-RecyclerView-Utils/)
 *   SwipeableCard：像 StreetView 一样的实现滑动卡片的库。[官网](https://github.com/michelelacorte/SwipeableCard)
+*   [Android Button Maker](http://hao.jobbole.com/android-button-maker/)：在线生成按钮代码的工具。[官网](http://angrytools.com/android/button/)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#actionbar)ActionBar
 
