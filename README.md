@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua/)
-- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)、[sunbiaobiao](http://hao.jobbole.com/activeandroid/)、[邢敏](https://github.com/dfghj44444)、[伯小乐](http://www.jobbole.com/members/aoi)
+- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)、[sunbiaobiao](http://hao.jobbole.com/activeandroid/)、[邢敏](https://github.com/dfghj44444)、[伯小乐](http://www.jobbole.com/members/aoi)、[黄小非](http://hao.jobbole.com/author/huangxiaofei/)
 
 注：名单不分排名，不定期补充更新
 
@@ -278,7 +278,8 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Gradle Retrolambda Plugin：在Android中使用Java 8的Lambdas表达式。[官网](https://github.com/evant/gradle-retrolambda)
 *   Caffeine：通用框架类的合集，让Android开发更快捷。[官网](https://github.com/percolate/caffeine)
 *   [RoboBinding](http://hao.jobbole.com/robobinding/)：一个实现了数据绑定 Presentation Model(MVVM) 模式的Android开源框架。[官网](http://robobinding.github.io/RoboBinding/)、[GitHub](https://github.com/RoboBinding/RoboBinding)
-*   [xUtils](http://hao.jobbole.com/xutils/)：
+*   [xUtils](http://hao.jobbole.com/xutils/)：丰富实用的Android工具库。[官网](https://github.com/wyouflf/xUtils)
+*   [Open Science Map](http://hao.jobbole.com/open-science-map/)：开源Android地图项目。[官网](http://hao.jobbole.com/open-science-map/)
 
 ## [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#development-alternatives)非Java开发安卓应用
 
