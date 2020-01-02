@@ -11,10 +11,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 我们要做什么？
 
 - 基于 awesome-android 列表，我们将对其中的各个资源项进行编译整理。此外还将从其他来源补充好资源。
-- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.jobbole.com/)。可参考已整理的内容：
-  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://hao.jobbole.com/jqwidgets-jquery-html5-ui/)》
-  - 《[Bootstrap：Web前端开发框架](http://hao.jobbole.com/bootstrap/)》
-  - 《[YUI Compressor：JS/CSS压缩工具](http://hao.jobbole.com/yui-compressor/)》
+- 整理后的内容，将收录在[伯乐在线资源频道](http://hao.importnew.com/)。可参考已整理的内容：
+  - 《[jQWidgets：jQuery HTML5 UI组件框架](http://hao.importnew.com/jqwidgets-jquery-html5-ui/)》
+  - 《[Bootstrap：Web前端开发框架](http://hao.importnew.com/bootstrap/)》
+  - 《[YUI Compressor：JS/CSS压缩工具](http://hao.importnew.com/yui-compressor/)》
 
 * * *
 
@@ -47,7 +47,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 ### 本项目的参与者
 
 - 维护者：[tangyouhua](https://github.com/tangyouhua/)
-- 贡献者：[zhengjunchenzjc](http://www.jobbole.com/members/zhengjunchenzjc)、[沉默水狮](http://www.jobbole.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.jobbole.com/members/wx2657563331/)、[sunbiaobiao](http://hao.jobbole.com/activeandroid/)、[邢敏](https://github.com/dfghj44444)、[伯小乐](http://www.jobbole.com/members/aoi)、[黄小非](http://hao.jobbole.com/author/huangxiaofei/)
+- 贡献者：[zhengjunchenzjc](http://www.importnew.com/members/zhengjunchenzjc)、[沉默水狮](http://www.importnew.com/members/fancylihb)、[Lian Dongyang](https://github.com/luciferldy)、[晓峰残月](http://www.importnew.com/members/wx2657563331/)、[sunbiaobiao](http://hao.importnew.com/activeandroid/)、[邢敏](https://github.com/dfghj44444)、[伯小乐](http://www.importnew.com/members/aoi)、[黄小非](http://hao.importnew.com/author/huangxiaofei/)
 
 注：名单不分排名，不定期补充更新
 
@@ -59,7 +59,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 * 整理超过 20 个资源后，可在伯乐在线上开通打赏；
 * 每整理 20 个资源，有机会获得技术书籍或各种有意思的创意、极客产品；
-* [奖励详情](http://hao.jobbole.com/rewards/)sun
+* [奖励详情](http://hao.importnew.com/rewards/)sun
 
 * * * -->
 ### 目录
@@ -103,10 +103,10 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#charts)图表
 
-*   [AChartEngine](http://hao.jobbole.com/achartengine/)：图表引擎。[官网](https://github.com/ddanny/achartengine)
+*   [AChartEngine](http://hao.importnew.com/achartengine/)：图表引擎。[官网](https://github.com/ddanny/achartengine)
 *   EazeGraph：图表绘画库。[官网](https://github.com/blackfizz/EazeGraph)
-*   [WilliamChart](http://hao.jobbole.com/williamchart/)：优秀的运动能力效果的图表库。[官网](https://github.com/diogobernardino/WilliamChart)
-*   [HelloCharts](http://hao.jobbole.com/hellocharts/)：支持缩放、滚动和其它动画的图表库。[官网](https://github.com/lecho/hellocharts-android)
+*   [WilliamChart](http://hao.importnew.com/williamchart/)：优秀的运动能力效果的图表库。[官网](https://github.com/diogobernardino/WilliamChart)
+*   [HelloCharts](http://hao.importnew.com/hellocharts/)：支持缩放、滚动和其它动画的图表库。[官网](https://github.com/lecho/hellocharts-android)
 *   MPAndroidChart：支持缩放和拖拽手势的Android图表库。[官网](https://github.com/PhilJay/MPAndroidChart)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#dependency-injection)依赖注入
@@ -133,12 +133,12 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Flow：Flow – 是一个将app分成一系列独立的 Screen 组合的库[官网](https://github.com/square/flow)
 *   Crouton：一个对上下文非常敏感的 android 通知库。[官网](https://github.com/keyboardsurfer/Crouton) 
 *   DragSortListView：Android的ListView的扩展，允许拖拽和重新排序（不再更新维护）。[官网](https://github.com/bauerca/drag-sort-listview)
-*   [MaterialProgressBar](http://hao.jobbole.com/materialprogressbar/)：和Material design效果外观一致的进度条。[官网](https://github.com/DreaminginCodeZH/MaterialProgressBar)
+*   [MaterialProgressBar](http://hao.importnew.com/materialprogressbar/)：和Material design效果外观一致的进度条。[官网](https://github.com/DreaminginCodeZH/MaterialProgressBar)
 *   AndroidFillableLoaders：使用SVG路径实现的填充效果的进度条。对于创建有趣的应用logo也是一个很棒的有趣的选择。[官网](https://github.com/JorgeCastilloPrz/AndroidFillableLoaders)
 *   NexusDialog：在Android中用少量代码简单快速地创建表格。[官网](https://github.com/dkharrat/NexusDialog)
 *   Snap RecyclerView Utils：无需创建Adapter生成一个或多个RecyclerView的布局。[官网](https://prashantsolanki3.github.io/Snap-RecyclerView-Utils/)
 *   SwipeableCard：像 StreetView 一样的实现滑动卡片的库。[官网](https://github.com/michelelacorte/SwipeableCard)
-*   [Android Button Maker](http://hao.jobbole.com/android-button-maker/)：在线生成按钮代码的工具。[官网](http://angrytools.com/android/button/)
+*   [Android Button Maker](http://hao.importnew.com/android-button-maker/)：在线生成按钮代码的工具。[官网](http://angrytools.com/android/button/)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#actionbar)ActionBar
 
@@ -163,7 +163,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#images)图片
 
-*   [android-crop](http://hao.jobbole.com/android-crop/)：图片剪裁的库。[官网](https://github.com/jdamcd/android-crop)
+*   [android-crop](http://hao.importnew.com/android-crop/)：图片剪裁的库。[官网](https://github.com/jdamcd/android-crop)
 *   CircularImageView：自定义View，高性能地绘制圆形图片。[官网](https://github.com/Pkmmte/CircularImageView)
 *   Android-Image-Filter：轻松实现图像滤镜的库。[官网](https://github.com/ragnraok/android-image-filter)
 
@@ -206,7 +206,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#notifications)通知
 
-*   [android-remote-notifications](http://hao.jobbole.com/android-remote-notifications/)：从远程JSON文件拉取通知显示在你的应用中。[官网](https://github.com/kaiwinter/android-remote-notifications)
+*   [android-remote-notifications](http://hao.importnew.com/android-remote-notifications/)：从远程JSON文件拉取通知显示在你的应用中。[官网](https://github.com/kaiwinter/android-remote-notifications)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#database)数据库
 
@@ -219,7 +219,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 *   GreeDAO：小巧快速的ORM解决方案。[官网](http://greendao-orm.com/)
 *   ORMLite：为JDBC和Android提供的轻量级的对象关系映射的包。[官网](http://ormlite.com/sqlite_java_android_orm.shtml)
-*   [ActiveAndroid](http://hao.jobbole.com/activeandroid/)：活动记录（Active record）风格的ORM框架。[官网](http://www.activeandroid.com/)
+*   [ActiveAndroid](http://hao.importnew.com/activeandroid/)：活动记录（Active record）风格的ORM框架。[官网](http://www.activeandroid.com/)
 *   Sugar ORM：超简单地使用Android数据库。[官网](http://satyan.github.io/sugar/)
 *   DBFlow：快速强大的ORM框架，编译时处理注解。[官网](https://github.com/Raizlabs/DBFlow)
 *   NexusData：Android上的对象图（Object graph）和持久化框架。[官网](https://github.com/dkharrat/NexusData)
@@ -277,9 +277,9 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   ZXing Android-Integration：整合通过网络使用条形扫描器（BarCode Scanner）。[官网](https://github.com/zxing/zxing)
 *   Gradle Retrolambda Plugin：在Android中使用Java 8的Lambdas表达式。[官网](https://github.com/evant/gradle-retrolambda)
 *   Caffeine：通用框架类的合集，让Android开发更快捷。[官网](https://github.com/percolate/caffeine)
-*   [RoboBinding](http://hao.jobbole.com/robobinding/)：一个实现了数据绑定 Presentation Model(MVVM) 模式的Android开源框架。[官网](http://robobinding.github.io/RoboBinding/)、[GitHub](https://github.com/RoboBinding/RoboBinding)
-*   [xUtils](http://hao.jobbole.com/xutils/)：丰富实用的Android工具库。[官网](https://github.com/wyouflf/xUtils)
-*   [Open Science Map](http://hao.jobbole.com/open-science-map/)：开源Android地图项目。[官网](http://hao.jobbole.com/open-science-map/)
+*   [RoboBinding](http://hao.importnew.com/robobinding/)：一个实现了数据绑定 Presentation Model(MVVM) 模式的Android开源框架。[官网](http://robobinding.github.io/RoboBinding/)、[GitHub](https://github.com/RoboBinding/RoboBinding)
+*   [xUtils](http://hao.importnew.com/xutils/)：丰富实用的Android工具库。[官网](https://github.com/wyouflf/xUtils)
+*   [Open Science Map](http://hao.importnew.com/open-science-map/)：开源Android地图项目。[官网](http://hao.importnew.com/open-science-map/)
 
 ## [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#development-alternatives)非Java开发安卓应用
 
@@ -296,7 +296,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   NativeScript：一个书体部分JavaScript开发本地（native）IOS和Android应用的开源框架。[官网](https://www.nativescript.org/)
 *   React Native：Facebook提供的使用React开发本地应用的框架。[官网](https://github.com/facebook/react-native)
 *   Ionic Framework：使用针对移动设备优化的HTML、CSS和JS的AngularJS框架来开发混合模式移动应用（hybird app）。[官网](http://ionicframework.com/)
-*   [Apache Cordova](http://hao.jobbole.com/cordova/)：基于Cordova的应用，核心是使用HTML、CSS和JavaScript这些Web技术开发应用。[官网](https://github.com/apache/cordova-android)
+*   [Apache Cordova](http://hao.importnew.com/cordova/)：基于Cordova的应用，核心是使用HTML、CSS和JavaScript这些Web技术开发应用。[官网](https://github.com/apache/cordova-android)
 *   Reapp.io：基于Cordova，使用针对移动设备优化HTML、CSS、JSS的ReactJS开发混合模式应用（hybrid app）的框架。[官网](http://reapp.io/)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#lua)Lua
@@ -324,7 +324,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 ### Python
 
-*   [python-for-android](http://hao.jobbole.com/python-for-android/)：把你的Python 应用变为Android 应用。[官网](https://python-for-android.readthedocs.io/en/latest/)、[GitHub](https://github.com/kivy/python-for-android/)
+*   [python-for-android](http://hao.importnew.com/python-for-android/)：把你的Python 应用变为Android 应用。[官网](https://python-for-android.readthedocs.io/en/latest/)、[GitHub](https://github.com/kivy/python-for-android/)
 
 ### [](https://github.com/JStumpp/awesome-android/blob/master/readme.md#performance)性能
 
@@ -361,7 +361,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h4>中文站点</h4>
 
-* 伯乐在线安卓频道：伯乐安卓分享Android开发文章，精选工具和安卓相关的行业动态。[官网](http://android.jobbole.com/)
+* 伯乐在线安卓频道：伯乐安卓分享Android开发文章，精选工具和安卓相关的行业动态。[官网](http://android.importnew.com/)
 
 <h4>英文站点</h4>
 
@@ -369,5 +369,5 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 
 <h3 id="weibo-weixin">微博、微信公众号</h3>
 * 安卓开发频道 微博：[@安卓开发频道](http://weibo.com/5038680568)
-* 「安卓应用频道」专注分享安卓应用相关内容，包括：安卓App开发、设计、推广和行业资讯。
+* 「安卓开发精选」专注分享安卓应用相关内容，包括：安卓App开发、设计、推广和行业资讯。
 <br><img src="http://ww4.sinaimg.cn/small/63918611gw1epb2c49yeej2046046wek.jpg" width=150 height=150>
