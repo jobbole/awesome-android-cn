@@ -272,6 +272,7 @@ Awesome 系列虽然挺全，但基本只对收录的资源做了极为简要的
 *   Guava Google Core Libraries for Java：集合（collections）、缓存、原语支持（primitives support）、并发库、通用注解、字符串处理、输入输出等等。[官网](https://github.com/google/guava)
 *   Android Scripting：让Android能够运行脚本语言。[官网](https://github.com/damonkohler/sl4a)
 *   Android Priority Job Queue：Job Queue的一种实现方式，轻松计划后台运行的任务，提高用户体验（UX）和稳定性。[官网](https://github.com/path/android-priority-jobqueue)
+*   apkgo：用一行命令把 APK 并发发布到国内主流应用商店（亦支持鸿蒙），适合 CI/CD。[官网](https://github.com/KevinGong2013/apkgo)
 *   RateMeMaybe：询问用户是否愿意在PlayStore中为您的应用打分。[官网](https://github.com/Kopfgeldjaeger/RateMeMaybe)
 *   Easy Rating Dialog：这个库为评分应用提供了一个简单的方式来展示提示框。[官网](https://github.com/fernandodev/easy-rating-dialog)
 *   ZXing Android-Integration：整合通过网络使用条形扫描器（BarCode Scanner）。[官网](https://github.com/zxing/zxing)
